@@ -1,5 +1,5 @@
-require "./spec_helper"
-require "../src/dog"
+require "./spec/spec_helper.rb"
+require "./src/dog.rb"
 
 describe Dog do
   it "test say method" do
