@@ -1,2 +1,4 @@
 language: Ruby
-script: test.rb
+Ruby: 
+- 2.4
+script: spec/dog_spec.rb
